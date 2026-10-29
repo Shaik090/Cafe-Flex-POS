@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Café Flex POS",
+    "slug": "cafe-flex-pos",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.cafeflex.pos",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/branding/adaptive-icon.png",
+        "backgroundColor": "#FFF8E7"
+      }
+    },
+    "icon": "./assets/branding/icon.png",
+    "splash": {
+      "image": "./assets/branding/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF8E7"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}

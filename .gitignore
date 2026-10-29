@@ -1,0 +1,5 @@
+# Android release signing material: retain only the placeholder example in source control.
+*.jks
+*.keystore
+android/keystore.properties
+node_modules
